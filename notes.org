@@ -1,14 +1,3 @@
-* Key themes
-** Ecology as competition
-*** Space as distance, competition for distance reduction
-
-
-
-** Ecology as commensuralism and synergy
-*** Craft nature is at the heart of the city
-*** Space as fertile nice, accessibility to particular others
-
-
 * Urban ecology has meant
 ** understanding why things are where there are
 *** City wide perspective
@@ -50,6 +39,10 @@
       businesses co locate and co-create each other in certain spaces.
       Firey, Clark, Schelling. See Taub as an example of how this
       goes wrong. Grannis
+******* Firey
+	Who says that people attached attributes to a place that
+	facilitates other goals. resources attach the land, but those
+	resrouces are the mix of current uses themselves. Yogi Berra
 ***** Craft effects
       In non routinized businesses there needs to be a great deal of
       communication specialized interactions that is facilitated by
@@ -77,6 +70,11 @@
      - Hoyt
 
 
-
+* Three takes on ecology
+** Competition
+** Mutualism (Division of Labor, craft nature)
+** Niche width
+*** Predation
+*** Mutualism
 
        
