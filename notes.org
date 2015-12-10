@@ -70,11 +70,12 @@
      - Hoyt
 
 
-* Three takes on ecology
+* Two takes on ecology
 ** Competition
-** Mutualism (Division of Labor, craft nature)
-** Niche width
-*** Predation
-*** Mutualism
+*** Niche width
+**** Predation
+**** Mutualism
+** Mutualism (Division of Labor, craft nature, agglomeration economy)
+
 
        
