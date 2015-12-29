@@ -1,6 +1,14 @@
 * Urban ecology has meant
 ** understanding why things are where there are
-*** City wide perspective
+*** City wide perspective. 
+    This actually has often been about how do cities grow, and more
+    particular how do they grow under conditions of improving transit
+    and communication technologies. So much of the original model is
+    about explosive growth AND the street car, telephone, and telegram
+
+    When we look at differential growth within an exisisting urban
+    framework, thinks look very different. See Beveridgs here!
+
 **** Burgess
      This is largely descriptive. The center expands, this encroaches
      on previous uses in ways that are status polluting or otherwise
@@ -39,6 +47,12 @@
       businesses co locate and co-create each other in certain spaces.
       Firey, Clark, Schelling. See Taub as an example of how this
       goes wrong. Grannis
+
+      Fischer's has a kind of Durkheimian, critical mass, division of
+      labor story about subcultures. It is not so clear how
+      propinquity fits into his story. People need be able access
+      each other at the city level, but do they need to live very
+      close to one another?
 ******* Firey
 	Who says that people attached attributes to a place that
 	facilitates other goals. resources attach the land, but those
